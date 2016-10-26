@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FE935B1D-7779-7B9D-817E-3272D2408818}") = "ReverseEffect", "Assembly-CSharp.csproj", "{B0AEB748-6CB8-F53E-B064-F27CEC8B21C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0AEB748-6CB8-F53E-B064-F27CEC8B21C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AEB748-6CB8-F53E-B064-F27CEC8B21C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AEB748-6CB8-F53E-B064-F27CEC8B21C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AEB748-6CB8-F53E-B064-F27CEC8B21C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
